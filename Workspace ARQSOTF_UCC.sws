@@ -4,8 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{218AB572-2EA3-4315-8E89-7B374F3FA4E2}" Loaded="No" Name="Arquitectura Solucion Caso Waze" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Arquitectura Solucion Caso Waze/Arquitectura Solucion Caso Waze.prj"/>
-		<Model Expanded="Yes" ID="{89551643-7956-4BD5-B3AD-340418D3F565}" Loaded="No" Name="Caso de Uso WAZE" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Arquitectura Solucion Caso Waze/Caso de Uso WAZE.oom"/>
+		<Model Expanded="Yes" ID="{218AB572-2EA3-4315-8E89-7B374F3FA4E2}" Name="Arquitectura Solucion Caso Waze" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Arquitectura Solucion Caso Waze/Arquitectura Solucion Caso Waze.prj"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
